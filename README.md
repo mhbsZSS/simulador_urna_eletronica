@@ -15,6 +15,7 @@ Este projeto simula o funcionamento de uma urna eletrônica para votações esco
 - **Ordenação de Dados:** Uso de `sorted()` com funções `lambda` para ranqueamento dos resultados.
 
 ## 📊 Como Testar
-1. Execute o script `simulador_urna.py`.
+1. Execute o script `simulador_urna_eletronica.py`.
 2. Digite o número do candidato (ex: 15, 22).
+
 3. Para encerrar a votação e ver o resultado, digite `FIM`.
